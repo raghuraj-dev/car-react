@@ -1,2 +1,0 @@
-(this["webpackJsonprouter-example"]=this["webpackJsonprouter-example"]||[]).push([[0],{16:function(e,t,r){e.exports=r(26)},26:function(e,t,r){"use strict";r.r(t);var n=r(0),o=r.n(n),c=r(14);r(6),r(1);function u(){}Object(c.render)(o.a.createElement(u,null),document.querySelector("#root"))}},[[16,1,2]]]);
-//# sourceMappingURL=main.f6bdc4aa.chunk.js.map
