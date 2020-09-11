@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/car-react/static/js/main.d69c83ff.chunk.js",
-    "main.js.map": "/car-react/static/js/main.d69c83ff.chunk.js.map",
+    "main.js": "/car-react/static/js/main.c455d341.chunk.js",
+    "main.js.map": "/car-react/static/js/main.c455d341.chunk.js.map",
     "runtime-main.js": "/car-react/static/js/runtime-main.11308365.js",
     "runtime-main.js.map": "/car-react/static/js/runtime-main.11308365.js.map",
     "static/js/2.3cb3d2ca.chunk.js": "/car-react/static/js/2.3cb3d2ca.chunk.js",
     "static/js/2.3cb3d2ca.chunk.js.map": "/car-react/static/js/2.3cb3d2ca.chunk.js.map",
     "index.html": "/car-react/index.html",
-    "precache-manifest.433cf817d4ba479f759a3bbb498b00be.js": "/car-react/precache-manifest.433cf817d4ba479f759a3bbb498b00be.js",
+    "precache-manifest.c40b98bf8a54cf74fd300b98961dc428.js": "/car-react/precache-manifest.c40b98bf8a54cf74fd300b98961dc428.js",
     "service-worker.js": "/car-react/service-worker.js",
     "static/js/2.3cb3d2ca.chunk.js.LICENSE.txt": "/car-react/static/js/2.3cb3d2ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.11308365.js",
     "static/js/2.3cb3d2ca.chunk.js",
-    "static/js/main.d69c83ff.chunk.js"
+    "static/js/main.c455d341.chunk.js"
   ]
 }
